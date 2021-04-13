@@ -1,0 +1,36 @@
+7
+Tran Van Hien
+3
+Lap trinh java
+Cong nghe di dong
+Lap trinh oop
+-
+Che Van Minh Duc
+3
+Vat ly 1
+Lap trinh oop
+Cong nghe di dong
+-
+Tran Van Hien
+3
+Co hoc ung dung
+Lap trinh java
+Cong nghe di dong
+-
+Tran Van Tri
+0
+-
+Che Van Minh Duc
+1
+Lap trinh oop
+-
+Tran Van Hien
+4
+Xac suat thong ke
+Co hoc ung dung
+Lap trinh java
+Cong nghe di dong
+-
+Tran Van Tri
+0
+-

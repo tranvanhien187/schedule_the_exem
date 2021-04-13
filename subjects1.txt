@@ -1,0 +1,21 @@
+20
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+Dai so
+Vat ly 1
+Vat ly 2
+Giai tich 1
+Giai tich 2
+Hoa hoc
+Ki thuat dieu khien
+Ki thuat dien
+Ki thuat nhiet
+Cong nghe thuc pham
+Cong nghe che tao may
+Ki thuat che tao dong co
+Ki thuat che bien

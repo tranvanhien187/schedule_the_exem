@@ -1,0 +1,10 @@
+Ca : 1
+      Xac suat thong ke
+      Vat ly 1
+Ca : 2
+      Co hoc ung dung
+      Lap trinh oop
+Ca : 3
+      Lap trinh java
+Ca : 4
+      Cong nghe di dong

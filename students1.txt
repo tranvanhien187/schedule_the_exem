@@ -1,0 +1,467 @@
+50
+Tran Van A
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van B
+6
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van C
+5
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van D
+4
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van E
+6
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+-
+Tran Van F
+5
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+-
+Tran Van G
+4
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+-
+Tran Van H
+3
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+-
+Tran Van K
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van L
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van M
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van N
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van O
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van P
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van T
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van S
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van B
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van A
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van A
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van A
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van A
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van A
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van A
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van A
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van A
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van A
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van B
+6
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van C
+5
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van D
+4
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van E
+6
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+-
+Tran Van F
+5
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+-
+Tran Van G
+4
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+-
+Tran Van H
+3
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+-
+Tran Van K
+7
+Ki thuat dieu khien
+Ki thuat dien
+Ki thuat nhiet
+Cong nghe thuc pham
+Cong nghe che tao may
+Ki thuat che tao dong co
+Ki thuat che bien
+-
+Tran Van L
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van M
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van N
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van O
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van P
+7
+Ki thuat dieu khien
+Ki thuat dien
+Ki thuat nhiet
+Cong nghe thuc pham
+Cong nghe che tao may
+Ki thuat che tao dong co
+Ki thuat che bien
+-
+Tran Van T
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van S
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van B
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van A
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van A
+7
+Ki thuat dieu khien
+Ki thuat dien
+Ki thuat nhiet
+Cong nghe thuc pham
+Cong nghe che tao may
+Ki thuat che tao dong co
+Ki thuat che bien
+-
+Tran Van A
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van A
+7
+Ki thuat dieu khien
+Ki thuat dien
+Ki thuat nhiet
+Cong nghe thuc pham
+Cong nghe che tao may
+Ki thuat che tao dong co
+Ki thuat che bien
+-
+Tran Van A
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van A
+7
+Dai so
+Vat ly 1
+Vat ly 2
+Giai tich 1
+Giai tich 2
+Hoa hoc
+Ki thuat dieu khien
+-
+Tran Van A
+7
+Lap trinh C++
+Lap trinh Java
+Lap trinh C#
+Cong nghe web
+Cong nghe di dong
+Cong nghe phan mem
+Lap trinh mang
+-
+Tran Van A
+7
+Dai so
+Vat ly 1
+Vat ly 2
+Giai tich 1
+Giai tich 2
+Hoa hoc
+Ki thuat dieu khien
+-
